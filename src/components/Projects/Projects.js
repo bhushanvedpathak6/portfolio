@@ -73,7 +73,7 @@ function Projects() {
               description="I worked on the TBS Home project using React.js, developing interactive UI components with animations, managing state, and ensuring smooth transitions, responsive design, and an engaging, high-performance user experience across devices.
 "
               ghLink={false}
-              demoLink="https://motheromalvan.com/"
+              demoLink="https://www.tbshome.in/"
             />
           </Col>
         </Row>
