@@ -33,13 +33,13 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={madhavbaug}
+              imgPath={Tbs}
               isBlog={false}
-              title="Madhavbaug"
-              description="I worked on the Madhavbaug Heart Health Score module using React.js, building reusable components, managing state and form validations, integrating APIs, and ensuring accurate health score calculation with a smooth, responsive, and user-friendly interface.
+              title="One Fine Day"
+              description="I worked on the TBS Home project using React.js, developing interactive UI components with animations, managing state, and ensuring smooth transitions, responsive design, and an engaging, high-performance user experience across devices.
 "
               ghLink={false}
-              demoLink="https://hearthealthmeter.com/score/"
+              demoLink="https://onefineday.co.in/"
             />
           </Col>
           <Col md={4} className="project-card">
